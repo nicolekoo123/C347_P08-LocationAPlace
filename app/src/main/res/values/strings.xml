@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08-LocationAPlace</string>
+    <string-array name="spinnerItems">
+        <item>Select A Location</item>
+        <item>NORTH</item>
+        <item>CENTRAL</item>
+        <item>EAST</item>
+    </string-array>
+
+</resources>
